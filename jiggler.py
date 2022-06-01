@@ -2,7 +2,7 @@
 Scope:
   1. Activate script when the shortcut is triggered.
   2. Stop script when the shortcut is tirggered again.
-  3. Move mouse pointer by 5 pixel every 5 second
+  3. Move mouse pointer by random pixels every 12 second
 """
 
 from pyautogui import size, position, move, moveTo
